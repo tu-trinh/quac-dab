@@ -1,0 +1,6 @@
+venv/
+node_modules
+yarn
+package-lock
+package-lock.json
+yarn.lock
